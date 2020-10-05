@@ -21,3 +21,12 @@ Awesome lists are a category that's come into play since [Sindre](https://github
  - [Codechef](https://www.codechef.com) : details
  - [Codeforces](https://codeforces.com) : details
  - [Codewars](https://www.codewars.com/dashboard) : details
+
+## Visit our Socials?
+ - [Website][s1] : Visit our community's official website!
+ - [LinkedIn][s2] : Visit our community's LinkedIn!
+ - [Instagram][s3] : Visit our Instagram page!
+ 
+[s1]: https://oscvitap.co.in
+[s2]: https://www.linkedin.com/company/oscvitap
+[s3]: https://www.instagram.com/osc.vitap/
