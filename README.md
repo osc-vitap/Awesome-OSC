@@ -7,20 +7,16 @@ So, we've created this repository so that you could navigate to the resources, r
 Awesome lists are a category that's come into play since [Sindre](https://github.com/sindresorhus) started off his repository called [awesome](https://github.com/sindresorhus/awesome), which evolved into one of the largest lists on GitHub containing links to other lists, each list going deeper into a specific category.
 
 ## Resources
- - [Awesome](https://github.com/sindresorhus/awesome) : details
+ - [Awesome](https://github.com/sindresorhus/awesome) : Check out the hub for awesome resources!
 
 ## DIY repositories
- - [OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101) : details
- 
-## Projects
- - [WSoc2001](#) : details
- - [WSoC2002](#) : details
+ - [OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101) : A live experience of working with Pull Requests, and Branching.
 
 ## Leet Coding
- - [Hackerrank](https://www.hackerrank.com) : details
- - [Codechef](https://www.codechef.com) : details
- - [Codeforces](https://codeforces.com) : details
- - [Codewars](https://www.codewars.com/dashboard) : details
+ - [Hackerrank](https://www.hackerrank.com) : Competitive coders, here's Hackerrank!
+ - [Codechef](https://www.codechef.com) : The chef demands solutions.
+ - [Codeforces](https://codeforces.com) : Compete against people worldwide in competitions in real time.
+ - [Codewars](https://www.codewars.com/dashboard) : Get your kyuu going, and advance to lower kyuu while solving harder problems.
 
 ## Visit our Socials?
  - [Website][s1] : Visit our community's official website!
