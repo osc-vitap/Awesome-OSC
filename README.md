@@ -9,8 +9,9 @@ Awesome lists are a category that's come into play since [Sindre](https://github
 ## Resources
  - [Awesome](https://github.com/sindresorhus/awesome) : Check out the hub for awesome resources!
 
-## DIY repositories
- - [OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101) : A live experience of working with Pull Requests, and Branching.
+## Hands on!
+ - [OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101) : A live experience of working with Pull Requests, and Branching to external repositories.
+ - [GitHub Lab Course](https://lab.github.com/githubtraining/ramp-up-on-git-and-github) : An entire course made to guide you through all the features of GitHub.
 
 ## Leet Coding
  - [Hackerrank](https://www.hackerrank.com) : Competitive coders, here's Hackerrank!
