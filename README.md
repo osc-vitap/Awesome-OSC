@@ -13,6 +13,10 @@ Awesome lists are a category that's come into play since [Sindre](https://github
  - [OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101) : A live experience of working with Pull Requests, and Branching to external repositories.
  - [GitHub Lab Course](https://lab.github.com/githubtraining/ramp-up-on-git-and-github) : An entire course made to guide you through all the features of GitHub.
 
+## The Winter Season of Code Projects
+- [OSCHub](https://github.com/Open-Source-Community-VIT-AP/oschub) : A centralized Hub for event management and OSC Livestreams.
+- [Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker) : Application to help you stay focused and productive.
+
 ## Leet Coding
  - [Hackerrank](https://www.hackerrank.com) : Competitive coders, here's Hackerrank!
  - [Codechef](https://www.codechef.com) : The chef demands solutions.
