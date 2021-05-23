@@ -24,6 +24,12 @@ Awesome lists are a category that's come into play since [Sindre](https://github
  - [Codewars](https://www.codewars.com/dashboard) : Get your kyuu going, and advance to lower kyuu while solving harder problems.
 
 ## Visit our Socials?
+
+<p align="center">
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/747728757053194252?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
  - [Website][s1] : Visit our community's official website!
  - [Discord][s2] : Join our Discord community server!
  - [LinkedIn][s3] : Visit our community's LinkedIn!
