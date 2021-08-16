@@ -35,7 +35,7 @@ Awesome lists are a category that's come into play since [Sindre](https://github
  - [LinkedIn][s3] : Visit our community's LinkedIn!
  - [Instagram][s4] : Visit our Instagram page!
  
-[s1]: https://oscvitap.co.in
+[s1]: https://oscvitap.org/
 [s2]: https://discord.gg/6C2SAHn36a
 [s3]: https://www.linkedin.com/company/oscvitap
 [s4]: https://www.instagram.com/osc.vitap/
