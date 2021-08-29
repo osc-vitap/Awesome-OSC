@@ -2,7 +2,7 @@
 
 Tech Cast is a series of talk shows hosted by OSC, where every episode brings you quality content regarding trending technologies. We invite renowned and experienced tech personalities from around the globe to explain and share their insigts on the topic. We pick intresting and trending topics that are crucial for every engineer and help students in getting a basic idea from experienced professionals.
 
-### Tech Cast Episode 1 - NLP & Open Source
+## Tech Cast Episode 1 - NLP & Open Source
 
 The first episode of Tech Cast was hosted on 27th November 2020, where we had Dr.Thomas Wolf, Chief Science Officer from Hugging Face. The topic of the event was NLP and Open Source.  
 You can watch the episode here : https://www.youtube.com/watch?v=p0LtOmxq3sI
