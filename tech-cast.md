@@ -4,7 +4,15 @@ Tech Cast is a series of talk shows hosted by OSC, where every episode brings yo
 
 ## Tech Cast Episode 1 - NLP & Open Source
 
-The first episode of Tech Cast was hosted on 27th November 2020, where we had Dr.Thomas Wolf, Chief Science Officer from Hugging Face. The topic of the event was NLP and Open Source.  
+Transformers,  provides General purpose architectures for
+NLP, and this package has more than 32 Pre-Trained Models, and supports more than 100 languages
+and has interoperability between jax, pytorch, and tensorflow.
+It has high performance on the tasks of Natural Language understanding and natural language generation
+(NLU And NLG). It's easy to learn and use.
+
+Interested and wanna learn more?
+Refer this site : https://huggingface.co/transformers/
+
 You can watch the episode here : https://www.youtube.com/watch?v=p0LtOmxq3sI
 
 ## Tech Cast Episode 2 - APIs
