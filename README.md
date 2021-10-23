@@ -8,6 +8,7 @@ Awesome lists are a category that's come into play since [Sindre](https://github
 
 ## Resources
  - [Awesome](https://github.com/sindresorhus/awesome) : Check out the hub for awesome resources!
+ - [OSC Docs](https://docs.oscvitap.org/) : OSC documentations/resources for all the topics covered during OSC events.
 
 ## Hands on!
  - [OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101) : A live experience of working with Pull Requests, and Branching to external repositories.
