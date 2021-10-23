@@ -21,7 +21,9 @@ The second episode of tech cast will be host on 29th August 2021 at 3Pm IST. The
 
 ### APIs
 
-An API(Application Programming Interface) is a intermediate software that allows for two applications running on different networks or the same network to communicate with each other. For example when you are using a mobile app, the software in your mobile needs to communicate with the server to send and request data. An API provides the medium through which the requests are accpeted, processed and it tells the server what to send as a response. An API provides a layer of security by not exposing your full data to the server, but only sending the required data mostly in the form of JSON.  
+An API(Application Programming Interface) is a intermediate software that allows for two applications running on different networks or the same network to communicate with each other. For example when you are using a mobile app, the software in your mobile needs to communicate with the server to send and request data. \
+An API provides the medium through which the requests are accpeted, processed and it tells the server what to send as a response. \
+An API provides a layer of security by not exposing your full data to the server, but only sending the required data mostly in the form of JSON.  
 For more information on APIs you can visit the following page - https://www.mulesoft.com/resources/api/what-is-an-api
 
 ### REST API
@@ -30,11 +32,8 @@ REST stands for Representational State Transfer.
 An API is considered as a REST API only if it follows the REST architectural style.The REST architecture consists the following criteria -  
 
 *   The server should not store any client information between the requests.  
-
 *   The Application must have a client server architecture where the requests must be managed through standard protocols like HTTP.  
-
 *   The resources received as response can be manipulated by the user.  
-
 *   The responses must contain descriptive messages that have information about the request status and other information.  
 
 These are some of the basic points, for more info about REST APIs visit the following page - https://en.wikipedia.org/wiki/Representational_state_transfer  
